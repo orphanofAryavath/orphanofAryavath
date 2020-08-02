@@ -1,7 +1,6 @@
 ### Hi there , I am Himanshu Verma 👋
 
-<!--
-**orphanofAryavath/orphanofAryavath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 ## I am a Developer , Competitive coder and Student
 
