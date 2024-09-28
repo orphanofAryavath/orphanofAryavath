@@ -2,7 +2,7 @@
 
 
 
-## I am a Developer , Competitive coder and Student
+## I am a Developer , Competitive coder and Human
 
 - 🔭 I’m currently working on React and Blockchain
 - 🌱 I’m currently learning everything that I found astonishing 🤣
